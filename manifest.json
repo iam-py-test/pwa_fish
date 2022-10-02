@@ -1,6 +1,6 @@
 {
-  "name": "Phish",
-  "short_name": "Phish",
+  "name": "trustedwebsite.com",
+  "short_name": "trustedwebsite.com",
   "start_url": "./phish.html",
   "display": "standalone",
   "theme_color": "#3f51b5",
